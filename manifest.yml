@@ -1,3 +1,5 @@
 applications:
-  - name: SpringBootSecuredWebExample
-    path: target/predix-shared-uaa-spring-boot-web-0.0.1-SNAPSHOT.jar
+- name: smiley-plant-svs-uaa
+  memory: 1024M
+  instances: 1
+  path: target/smileyplant-0.0.1-SNAPSHOT.jar

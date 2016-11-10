@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.ge.predix</groupId>
-	<artifactId>predix-shared-uaa-spring-boot-web</artifactId>
+	<artifactId>smiley-plant-svs-uaa</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>predix-shared-uaa-spring-boot-web</name>
-	<description>Example project for Spring Boot Web</description>
+	<name>smiley-plant-svs-uaa</name>
+	<description>Smiley Plant Spring Boot services integrated with GE-Shared-Basic-UAA</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
