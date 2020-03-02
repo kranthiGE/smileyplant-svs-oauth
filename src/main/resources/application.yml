@@ -83,8 +83,8 @@ spring:
 security:  
   oauth2:               
     client:
-      clientId: gepw_uaa_ws
-      clientSecret: gepwuaaws
+      clientId: 
+      clientSecret: 
       accessTokenUri: https://fssfed.ge.com/fss/as/token.oauth2
       userAuthorizationUri: https://fssfed.ge.com/fss/as/authorization.oauth2
       scope: openid,profile
@@ -117,8 +117,8 @@ spring:
 security:
   oauth2:
     client:
-      client-id: smiley-plant-svs-uaa
-      client-secret: kranthiGEUAA
+      client-id: 
+      client-secret: 
       access-token-uri:  https://52d8d211-3773-4f70-8607-15e68e1486c6.predix-uaa.run.aws-usw02-pr.ice.predix.io/oauth/token 
       user-authorization-uri:  https://52d8d211-3773-4f70-8607-15e68e1486c6.predix-uaa.run.aws-usw02-pr.ice.predix.io/oauth/authorize      
       scope: openid,profile
