@@ -14,12 +14,12 @@ security:
     client:
       clientId: [Client ID]
       clientSecret: [Client Secret]
-      accessTokenUri: https://fssfed.ge.com/fss/as/token.oauth2
-      userAuthorizationUri: https://fssfed.ge.com/fss/as/authorization.oauth2       
+      accessTokenUri: 
+      userAuthorizationUri:      
       scope: openid,profile
       pre-established-redirect-uri: [Redirect URI]
       registered-redirect-uri: [Redirect URI]
       use-current-uri: false      
     resource:
-      userInfoUri: https://fssfed.ge.com/fss/idp/userinfo.openid
+      userInfoUri: 
       prefer-token-info: true
